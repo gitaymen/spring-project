@@ -1,0 +1,1 @@
+Configuration classes and files (e.g., Spring configuration, database configuration).
